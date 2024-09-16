@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrisbriss
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... Cyber Security Part Time
+- 👀 I’m interested in ... Self care &  mental health
+- 🌱 I’m currently learning ... Front-End Web Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... christopherfox007@gmail.com or linkedin.com/in/christopher-brister-7109711aa
 
